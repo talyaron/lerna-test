@@ -1,0 +1,10 @@
+{
+  "name": "lerna",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Tal Yaron <tal.yaron@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^5.1.4"
+  }
+}
